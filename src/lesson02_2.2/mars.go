@@ -10,7 +10,6 @@ func main() {
 	fmt.Print(" years old.\n")
 
 	// secopnd way to write
-
 	fmt.Println("My weigth on the surface of march is", 149.0 * 0.3783, "lbs, and I would be", 41 * 365 / 687, "years old.")
 
 	// third way to write it
